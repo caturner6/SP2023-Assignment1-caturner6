@@ -1,0 +1,44 @@
+﻿#Title {
+    color: white;
+}
+#Rating {
+    color: white;
+}
+#CoverArt {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+#Youtube {
+
+}
+#LinkToIMDB {
+    text-align: center;
+}
+#Summary {
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+#Actors {
+    color: white;
+    list-style-type: none;
+}
+#page {
+    text-align: center;
+}
+.tablePhoto {
+    height: 131px;
+    width: 200px;
+}
+#toptable {
+    color: white;
+}
+.tablerow {
+    color: white;
+}
+
+
+

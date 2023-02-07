@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SP2023-Assignment1-caturner6/1.0.0": {
+        "runtime": {
+          "SP2023-Assignment1-caturner6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP2023-Assignment1-caturner6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
